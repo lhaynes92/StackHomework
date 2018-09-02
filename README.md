@@ -16,3 +16,7 @@ E peek()                //look at the top element without removing
 ### Your Assignment
 
 Complete the class `Stack.java` using the BasicNode you wrote in class previously. Test that it works by writing a driver.
+
+*CAUTION*- Be careful to only commit source files- do not git add -A, or update the .gitignore to reflect the appropriate ignorable files for the language of your choice.
+
+**Good style in code and in git commits will be part of your final score for this lab.**
